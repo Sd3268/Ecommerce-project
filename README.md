@@ -1,1 +1,1 @@
-# e-SMART Trade HUB  is a fully integrated web-based e-commerce platform developed for a Canadian client to streamline their retail operations, employee management, and online customer experience. The application is designed to support both physical store activities and online order processing ensuring seamless business operations across departments.
+# e-SMART Trade HUB  
